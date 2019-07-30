@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to configure dxPieChart
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t141704)**
+**[[Run Online]](https://codecentral.devexpress.com/t141704/)**
 <!-- run online end -->
 
 
